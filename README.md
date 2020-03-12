@@ -1,3 +1,3 @@
 # Hello-World
 
-This is a basic hello world programm in python.
+This is a basic hello world program in python.
